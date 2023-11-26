@@ -2,7 +2,7 @@
 
 Автоматизированное тестирование страницы https://b2c.passport.rt.ru сайта "Ростелеком"
 
-При тестировании сайта были написаны:https://drive.google.com/drive/folders/1ySpTgibz9apkwXSxk-pU0VXHEGhjh_-j?usp=sharing
+При тестировании сайта были написаны:[https://drive.google.com/drive/folders/1ySpTgibz9apkwXSxk-pU0VXHEGhjh_-j?usp=sharing](https://drive.google.com/drive/folders/14Q1eGTj3zC5gSNS_7wsGFrmwp3X7OZqq?hl=ru)
 
 ручные чек-лист, тест-кейсы и баг- репорты:
 автоматизированные тесты.
